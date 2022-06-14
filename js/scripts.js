@@ -38,6 +38,18 @@ const infos = [
     title: "Título do card",
     descricao: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in neque et nisl."
   },
+  {
+    id: "06",
+    cor: "#6663FF",
+    title: "Título do card",
+    descricao: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in neque et nisl."
+  },
+  {
+    id: "06",
+    cor: "#6663FF",
+    title: "Título do card",
+    descricao: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in neque et nisl."
+  },
   
 ]
 
